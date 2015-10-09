@@ -13,6 +13,18 @@
                     "composer/installers": "~1.0"
                 }
             },
+            "5.6.3.3": {
+                "name": "concrete5/concrete5",
+                "version": "5.6.3.3",
+                "type": "concrete5-update",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://www.concrete5.org/download_file/-/view/75930/8497/"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                }
+            },
             "5.6.3.2": {
                 "name": "concrete5/concrete5",
                 "version": "5.6.3.2",
