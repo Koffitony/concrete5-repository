@@ -7,7 +7,7 @@
                 "type": "concrete5-update",
                 "dist": {
                     "type": "zip",
-                    "url": "http://www.concrete5.org/download_file/-/view/85780/"
+                    "url": "https://www.concrete5.org/download_file/-/view/85780/"
                 },
                 "require": {
                     "composer/installers": "~1.0"
@@ -19,7 +19,7 @@
                 "type": "concrete5-update",
                 "dist": {
                     "type": "zip",
-                    "url": "http://www.concrete5.org/download_file/-/view/85712/"
+                    "url": "https://www.concrete5.org/download_file/-/view/85712/"
                 },
                 "require": {
                     "composer/installers": "~1.0"
@@ -31,7 +31,7 @@
                 "type": "concrete5-update",
                 "dist": {
                     "type": "zip",
-                    "url": "http://www.concrete5.org/download_file/-/view/85488/"
+                    "url": "https://www.concrete5.org/download_file/-/view/85488/"
                 },
                 "require": {
                     "composer/installers": "~1.0"
@@ -43,7 +43,7 @@
                 "type": "concrete5-update",
                 "dist": {
                     "type": "zip",
-                    "url": "http://www.concrete5.org/download_file/-/view/84191/"
+                    "url": "https://www.concrete5.org/download_file/-/view/84191/"
                 },
                 "require": {
                     "composer/installers": "~1.0"
@@ -55,7 +55,7 @@
                 "type": "concrete5-update",
                 "dist": {
                     "type": "zip",
-                    "url": "http://www.concrete5.org/download_file/-/view/82243/"
+                    "url": "https://www.concrete5.org/download_file/-/view/82243/"
                 },
                 "require": {
                     "composer/installers": "~1.0"
@@ -67,7 +67,7 @@
                 "type": "concrete5-update",
                 "dist": {
                     "type": "zip",
-                    "url": "http://www.concrete5.org/download_file/-/view/82244/8497/"
+                    "url": "https://www.concrete5.org/download_file/-/view/82244/8497/"
                 },
                 "require": {
                     "composer/installers": "~1.0"
@@ -79,7 +79,7 @@
                 "type": "concrete5-update",
                 "dist": {
                     "type": "zip",
-                    "url": "http://www.concrete5.org/download_file/-/view/75930/8497/"
+                    "url": "https://www.concrete5.org/download_file/-/view/75930/8497/"
                 },
                 "require": {
                     "composer/installers": "~1.0"
@@ -91,7 +91,7 @@
                 "type": "concrete5-update",
                 "dist": {
                     "type": "zip",
-                    "url": "http://www.concrete5.org/download_file/-/view/70913/8497/"
+                    "url": "https://www.concrete5.org/download_file/-/view/70913/8497/"
                 },
                 "require": {
                     "composer/installers": "~1.0"
@@ -103,7 +103,7 @@
                 "type": "concrete5-update",
                 "dist": {
                     "type": "zip",
-                    "url": "http://www.concrete5.org/download_file/-/view/66159/8497/"
+                    "url": "https://www.concrete5.org/download_file/-/view/66159/8497/"
                 },
                 "require": {
                     "composer/installers": "~1.0"
@@ -115,7 +115,7 @@
                 "type": "concrete5-update",
                 "dist": {
                     "type": "zip",
-                    "url": "http://www.concrete5.org/download_file/-/view/65413/8497/"
+                    "url": "https://www.concrete5.org/download_file/-/view/65413/8497/"
                 },
                 "require": {
                     "composer/installers": "~1.0"
@@ -129,7 +129,7 @@
                 "type": "concrete5-package",
                 "dist": {
                     "type": "zip",
-                    "url": "http://www.concrete5.org/download_file/-/58771/0/"
+                    "url": "https://www.concrete5.org/download_file/-/58771/0/"
                 },
                 "require": {
                     "composer/installers": "~1.0"
@@ -143,7 +143,7 @@
                 "type": "concrete5-package",
                 "dist": {
                     "type": "zip",
-                    "url": "http://www.concrete5.org/download_file/-/32242/0/"
+                    "url": "https://www.concrete5.org/download_file/-/32242/0/"
                 },
                 "require": {
                     "composer/installers": "~1.0"
