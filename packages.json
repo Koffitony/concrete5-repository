@@ -1,6 +1,18 @@
 {
     "packages": {
         "concrete5/concrete5": {
+            "5.7.5.7": {
+                "name": "concrete5/concrete5",
+                "version": "5.7.5.7",
+                "type": "concrete5-update",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://www.concrete5.org/download_file/-/view/88522/"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                }
+            },
             "5.7.5.6": {
                 "name": "concrete5/concrete5",
                 "version": "5.7.5.6",
