@@ -1,6 +1,18 @@
 {
     "packages": {
         "concrete5/concrete5": {
+            "8.1.0": {
+                "name": "concrete5/concrete5",
+                "version": "8.1.0",
+                "type": "concrete5-update",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://www.concrete5.org/download_file/-/view/93797/"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                }
+            },
             "8.0.3": {
                 "name": "concrete5/concrete5",
                 "version": "8.0.3",
